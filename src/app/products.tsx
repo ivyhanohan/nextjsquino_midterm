@@ -1,4 +1,4 @@
-// pages/products.tsx
+
 import { GetServerSideProps } from "next";
 import { Product } from "./types/types";
 
